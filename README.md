@@ -52,7 +52,8 @@ Este projeto foi desenvolvido apenas como **teste e aprendizado**, sem vínculo 
 
 ## ✅ Screenshots:
 
-*(Se tiver prints, pode adicionar aqui futuramente)*
+![image](https://github.com/user-attachments/assets/9bbbaad4-732e-4a0f-a41a-4e27bb079842)
+
 
 ---
 
